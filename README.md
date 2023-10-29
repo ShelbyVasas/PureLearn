@@ -7,7 +7,7 @@ This game is meant to be a vocab learning game. Currently, the words are in Taga
 I have been wanting to learn vocabulary in my target language for awhile but I wanted an app that could help me do so visually. When a little kid learns, they don't look at a bird and translate from english "bird" to "ibon". They simply see the object and think "ibon." This is what I was trying to emulate.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ijWNBNMUAI4)
 
 # Development Environment
 
